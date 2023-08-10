@@ -73,7 +73,7 @@ $admin=new admin();
                             <div class="col-12">
                                 <div class="welcome_slide_text">
                                     <h6 data-animation="bounceInDown" data-delay="0" data-duration="500ms">* Only today we offer free shipping</h6>
-                                    <h2 data-animation="fadeInUp" data-delay="500ms" data-duration="500ms">Fashion Trends</h2>
+                                    <!-- <h2 data-animation="fadeInUp" data-delay="500ms" data-duration="500ms">Fashion Trends</h2> -->
                                     <a href="shop.php" class="btn karl-btn" data-animation="fadeInUp" data-delay="1s" data-duration="500ms">Shop Now</a>
                                 </div>
                             </div>
